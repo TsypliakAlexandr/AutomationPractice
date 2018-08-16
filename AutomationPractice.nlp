@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=AutomationPractice
+project.version=6.3
+project.original.version=6.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=6.5.1
+product.original.version=6.5.1
+project.id=0588a397-7b23-41f4-92b5-d752548198a9
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
